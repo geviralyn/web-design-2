@@ -1,0 +1,57 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    max-width: 100%;
+}
+
+.nav-link{
+    color: grey;
+}
+
+
+
+.navbar .nav-item .nav-link.active,
+.navbar .nav-item .nav-link:hover
+{
+    color: orangered;
+}
+
+.hr img{
+    width: 100%;
+    /* margin-right: 50px; */
+}
+
+.col-8 h5{
+    color: orangered;
+}
+
+.ktk{
+    color: orangered;
+}
+
+.card-text{
+    color: orangered;
+}
+/* 
+.col-4{
+    width: 10px;
+} */
+
+.gmbr img{
+    margin-left: 150px;
+}
+
+
+.black{
+    background-color: black;
+    /* height: 100%; */
+}
+
+
+.ft img{
+    width: 100%;
+    /* margin-right: 20px; */
+}
+
+i{
+    padding-right: 10px;
+}
